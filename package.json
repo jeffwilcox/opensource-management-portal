@@ -48,7 +48,7 @@
   "_end_microsoft_internal_": 0,
   "//...": "- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ",
   "dependencies": {
-    "@azure/cosmos": "3.11.5",
+    "@azure/cosmos": "3.15.1",
     "@azure/data-tables": "12.0.0-beta.2",
     "@azure/identity": "2.0.1",
     "@azure/keyvault-secrets": "4.3.0",
@@ -60,7 +60,7 @@
     "@octokit/rest": "18.12.0",
     "adal-node": "0.2.3",
     "app-root-path": "3.0.0",
-    "applicationinsights": "2.2.2",
+    "applicationinsights": "2.3.1",
     "async-prompt": "1.0.1",
     "axios": "0.26.1",
     "bad-words": "3.0.4",
