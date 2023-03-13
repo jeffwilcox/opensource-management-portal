@@ -75,7 +75,7 @@
     "@octokit/auth-app": "4.0.7",
     "@octokit/request": "^6.2.2",
     "@octokit/rest": "19.0.5",
-    "adal-node": "0.2.3",
+    "adal-node": "0.2.4",
     "app-root-path": "3.1.0",
     "applicationinsights": "2.3.6",
     "async-prompt": "1.0.1",
