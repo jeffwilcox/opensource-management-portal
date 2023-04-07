@@ -133,7 +133,7 @@
     "semver": "7.3.8",
     "serve-favicon": "2.5.0",
     "simple-oauth2": "4.3.0",
-    "throat": "6.0.1",
+    "throat": "6.0.2",
     "tmp-promise": "3.0.3",
     "unzipper": "0.10.11",
     "validator": "13.7.0",
