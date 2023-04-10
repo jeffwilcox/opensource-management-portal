@@ -136,7 +136,7 @@
     "throat": "6.0.1",
     "tmp-promise": "3.0.3",
     "unzipper": "0.10.11",
-    "validator": "13.7.0",
+    "validator": "13.9.0",
     "walk-back": "5.1.0"
   },
   "devDependencies": {
@@ -167,7 +167,7 @@
     "@types/semver": "7.3.13",
     "@types/simple-oauth2": "4.1.1",
     "@types/unzipper": "0.10.5",
-    "@types/validator": "13.7.10",
+    "@types/validator": "13.7.14",
     "@typescript-eslint/eslint-plugin": "5.48.0",
     "@typescript-eslint/parser": "5.48.0",
     "cspell": "6.18.1",
