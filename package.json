@@ -119,7 +119,7 @@
     "package-lock.json": "1.0.0",
     "pascal-case": "3.1.2",
     "passport": "0.6.0",
-    "passport-azure-ad": "4.3.4",
+    "passport-azure-ad": "4.3.5",
     "passport-github": "1.1.0",
     "passport-vso": "0.0.3",
     "pg": "8.8.0",
