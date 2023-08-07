@@ -172,7 +172,7 @@
     "@typescript-eslint/parser": "5.48.0",
     "cspell": "6.18.1",
     "eslint": "8.31.0",
-    "eslint-config-prettier": "8.5.0",
+    "eslint-config-prettier": "9.0.0",
     "eslint-plugin-n": "^15.6.0",
     "eslint-plugin-prettier": "4.2.1",
     "husky": "^8.0.1",
