@@ -140,7 +140,7 @@
     "walk-back": "5.1.0"
   },
   "devDependencies": {
-    "@types/cheerio": "0.22.31",
+    "@types/cheerio": "0.22.32",
     "@types/connect-redis": "0.0.19",
     "@types/core-js": "2.5.5",
     "@types/debug": "4.1.7",
