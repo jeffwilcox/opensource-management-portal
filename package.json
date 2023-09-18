@@ -70,7 +70,7 @@
     "@azure/keyvault-secrets": "4.6.0",
     "@azure/service-bus": "7.7.2",
     "@azure/storage-blob": "12.12.0",
-    "@azure/storage-file-share": "12.12.0",
+    "@azure/storage-file-share": "12.16.0",
     "@azure/storage-queue": "12.11.0",
     "@octokit/auth-app": "4.0.7",
     "@octokit/request": "^6.2.2",
