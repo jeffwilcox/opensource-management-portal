@@ -139,7 +139,7 @@
     "@types/morgan": "1.9.6",
     "@types/node": "20.8.2",
     "@types/node-jose": "1.1.11",
-    "@types/object-path": "0.11.2",
+    "@types/object-path": "0.11.4",
     "@types/passport": "1.0.13",
     "@types/passport-azure-ad": "4.3.2",
     "@types/passport-github": "1.1.10",
